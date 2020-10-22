@@ -2,11 +2,6 @@
 
 I am Shivam Pandit, a Computer Science Graduate(M.S) from Clemson University actively seeking Full-Time positions in Data Science, Machine Learning, Cybersecurity & Software Development. I have a strong analytical mind and I am a quick learner. 
 
-<a class="github-button" href="https://github.com/shivam7066" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @shivam7066 on GitHub">Follow @shivam7066</a>
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-![GitHub Star](https://img.shields.io/github/stars/shivam7066?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
-
 📫 Reach me via:
 
 [![GitHub](https://img.shields.io/badge/--github?label=Github&logo=GitHub&style=social)](https://github.com/shivam7066) 
