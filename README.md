@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**shivam7066/shivam7066** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
 I am Shivam Pandit, a Computer Science Graduate(M.S) from Clemson University actively seeking Full-Time positions in Data Science, Machine Learning, Cybersecurity & Software Development. I have a strong analytical mind and I am a quick learner. 
 
 ![GitHub Follow](https://img.shields.io/github/followers/shivam7066.svg?style=social&label=Follow)
