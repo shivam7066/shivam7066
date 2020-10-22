@@ -20,21 +20,21 @@ I am Shivam Pandit, a Computer Science Graduate(M.S) from Clemson University act
 
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
-![ChromeOS](https://img.shields.io/badge/-ChromeOS-333333?style=flat&logo=chrome)\
+![ChromeOS](https://img.shields.io/badge/-ChromeOS-333333?style=flat&logo=chrome)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat)
 ![C](https://img.shields.io/badge/-C-333333?style=flat)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat)
 ![YAML](https://img.shields.io/badge/-YAML-333333)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat)\
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom)
-![Sublime](https://img.shields.io/badge/-Sublime%20-333333?style=flat&logo=sublime-text)\
+![Sublime](https://img.shields.io/badge/-Sublime%20-333333?style=flat&logo=sublime-text)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS)
-![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex)\
+![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter)
 ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white")
@@ -45,10 +45,5 @@ I am Shivam Pandit, a Computer Science Graduate(M.S) from Clemson University act
 
 <details close>
 <summary>:zap: GitHub Statistics</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=elmoallistair&show_icons=true&theme=nord" width="400px">
-</details>
-
-<details close>
-<summary>:zap: Languages</summary>
-  <img src="https://wakatime.com/share/@9ab069a4-0617-4090-a4d1-1baff8761284/f60fc92b-8226-4e6e-b6d9-0fb059596b46.svg" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivam7066&show_icons=true&theme=nord" width="400px">
 </details>
