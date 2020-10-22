@@ -35,7 +35,7 @@ I am Shivam Pandit, a Computer Science Graduate(M.S) from Clemson University act
 ![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter)
-![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws")
+![AWS](https://img.shields.io/badge/-AWS-black&logo=amazon-aws")
 ![APACHE](https://img.shields.io/badge/-Apache-black")
 ![MYSQL](https://img.shields.io/badge/-MYSQL-black)
 ![Splunk](https://img.shields.io/badge/-Splunk-black)
