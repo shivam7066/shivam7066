@@ -5,14 +5,14 @@ I am Shivam Pandit, a Computer Science Graduate(M.S) from Clemson University act
 ![GitHub Follow](https://img.shields.io/github/followers/shivam7066.svg?style=social&label=Follow)
 ![GitHub Star](https://img.shields.io/github/stars/shivam7066?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
 
-📫 How to reach me
+📫 Reach me via:
 
 [![GitHub](https://img.shields.io/badge/--github?label=Github&logo=GitHub&style=social)](https://github.com/shivam7066) 
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/shivam7066)
 [![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:pandit.shivam1993@gmail.com)
 
 👨‍💻 My other profiles
-
+[![Udemy] (https://www.udemy.com/user/shivam-pandit-4/
 [![HackerRank](https://img.shields.io/badge/--dev?label=HackerRank&logo=Hackerrank&style=social)](https://www.hackerrank.com/pandit_shivam191)
 [![Coursera](https://img.shields.io/badge/--dev?label=Coursera&logo=coursera&style=social)](https://www.coursera.org/user/bacabefc9e6cfeb474714fbd22e3e4ca)
 
@@ -20,13 +20,11 @@ I am Shivam Pandit, a Computer Science Graduate(M.S) from Clemson University act
 
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
-![ChromeOS](https://img.shields.io/badge/-ChromeOS-333333?style=flat&logo=chrome)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat)
 ![C](https://img.shields.io/badge/-C-333333?style=flat)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat)
-![YAML](https://img.shields.io/badge/-YAML-333333)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -37,7 +35,7 @@ I am Shivam Pandit, a Computer Science Graduate(M.S) from Clemson University act
 ![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter)
-![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white")
+![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws")
 
 <hr>
 
