@@ -38,7 +38,7 @@ I am Shivam Pandit, a Computer Science Graduate(M.S) from Clemson University act
 ![MYSQL](https://img.shields.io/badge/-MYSQL-black)
 ![Splunk](https://img.shields.io/badge/-Splunk-black)
 ![Nessus](https://img.shields.io/badge/-Nessus-black)
-![AWS](https://img.shields.io/badge/-AWS-black")
+![AWS](https://img.shields.io/badge/-AWS-blue")
 ![APACHE](https://img.shields.io/badge/-Apache-black")
 
 
