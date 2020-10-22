@@ -12,7 +12,6 @@ I am Shivam Pandit, a Computer Science Graduate(M.S) from Clemson University act
 [![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:pandit.shivam1993@gmail.com)
 
 👨‍💻 My other profiles
-[![Udemy]](https://www.udemy.com/user/shivam-pandit-4/)
 [![HackerRank](https://img.shields.io/badge/--dev?label=HackerRank&logo=Hackerrank&style=social)](https://www.hackerrank.com/pandit_shivam191)
 [![Coursera](https://img.shields.io/badge/--dev?label=Coursera&logo=coursera&style=social)](https://www.coursera.org/user/bacabefc9e6cfeb474714fbd22e3e4ca)
 
