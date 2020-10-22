@@ -39,5 +39,4 @@ I am Shivam Pandit, a Computer Science Graduate(M.S) from Clemson University act
 ![APACHE](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white")
 ![MYSQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql)
 
-<hr>
 
