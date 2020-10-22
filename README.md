@@ -41,9 +41,3 @@ I am Shivam Pandit, a Computer Science Graduate(M.S) from Clemson University act
 
 <hr>
 
-## Statistics
-
-<details close>
-<summary>:zap: GitHub Statistics</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=shivam7066&show_icons=true&theme=nord" width="400px">
-</details>
