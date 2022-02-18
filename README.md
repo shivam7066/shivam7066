@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Shivam Pandit, a Computer Science Graduate(M.S) from Clemson University actively seeking Full-Time positions in Data Science, Machine Learning, Cybersecurity & Software Development. I have a strong analytical mind and I am a quick learner. 
+I am Shivam Pandit, a Computer Science Graduate(M.S) from Clemson University interested in Data Science, Machine Learning, Cybersecurity & Software Development. I have a strong analytical mind and I am a quick learner. 
 
 📫 Reach me via:
 
